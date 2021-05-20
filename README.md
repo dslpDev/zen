@@ -1,2 +1,3 @@
-# zen
-Zen's server because shes cool
+# Zen Token logger
+
+
